@@ -1,0 +1,112 @@
+body {
+    background-image: url(/assets/IMG/Fondo.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+h1 {
+    font: bold 45px verdana, sans-serif;
+
+}
+
+h2 {
+    font: bold 25px verdana, sans-serif;
+}
+
+h3 {
+    font: bold 20px verdana, sans-serif;
+
+}
+
+#agrupartodo {
+    width: 90%;
+    max-width: 960px;
+    margin: 15px auto;
+    text-align: left;
+}
+
+#titulos {
+    text-align: center;
+    font-family: 'Arima Madurai';
+    color: rgb(255, 39, 39);
+    font-size: 3rem;
+}
+
+#subtitulos {
+    text-align: center;
+    font-family: 'Arima Madurai', cursive;
+    color: rgb(67, 57, 57);
+    font-size: 1.5rem;
+}
+
+#biografia {
+    width: 76%;
+    font-family: 'Arima Madurai';
+    background-color: lightgrey;
+    margin-left: 230px;
+    padding: 40px;
+    box-sizing: border-box;
+    text-align: justify;
+    border: 3px solid;
+    margin-top: 10px;
+    border-radius: 5px;
+    min-height: 304px;
+}
+
+.fotoperfil {
+    width: 25%;
+    min-width: 194px;
+    box-sizing: border-box;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    float: left;
+    border: 3px solid;
+    height: 30%;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+#fotoperfil {
+    width: 80%;
+    margin: 20px;
+    box-sizing: border-box;
+    border: 3px solid;
+    border-radius: 5px;
+}
+
+    #educacion{
+        background-color:lightgray;
+        padding: 4px 20px 4px 20px;
+        text-align:left;
+        border: 3px solid;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font: bold 15px verdana,sans-serif;
+        border-radius: 5px;
+    }
+    h3 {
+        text-align: center;
+    }
+
+#proyectos{
+    background-color: lightgrey;
+    padding: 4px 20px 4px 20px;
+    text-align: center;
+    border: 3px solid;
+    margin-top: 15px;
+}
+
+.port {
+    width: 50%;
+}
+
+#lista {
+    margin: 20px 0px 20px 50px;
+}
+
+footer {
+    text-align: center;
+    font-size: 1.5rem;
+}
